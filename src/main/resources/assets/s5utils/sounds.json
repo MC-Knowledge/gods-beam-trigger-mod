@@ -1,0 +1,10 @@
+{
+  "orbital_strike_explode": {
+    "sounds": [
+      {
+        "name": "s5utils:orbital_strike_explode",
+        "stream": false
+      }
+    ]
+  }
+}

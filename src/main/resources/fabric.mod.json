@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "s5utils",
+  "version": "1.7.3",
+  "name": "KSMP S5",
+  "icon": "assets/s5utils/icon.png",
+  "description": "A mod made for KSMP Season 5.",
+  "authors": [
+    "MCKnowledge"
+  ],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mck.godsbeamtrigger.GodsBeamTriggerMod"
+    ],
+    "client": [
+      "com.mck.godsbeamtrigger.GodsBeamTriggerClient"
+    ]
+  },
+  "mixins": [
+    "s5utils.client.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.11",
+    "fabric-api": "*",
+    "geckolib": "*"
+  }
+}

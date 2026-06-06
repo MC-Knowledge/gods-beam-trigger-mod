@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mck.godsbeamtrigger.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DamageSourcesAccessor",
+    "EntityAccessor",
+    "LivingEntityAccessor",
+    "BeamKnockbackMixin"
+  ],
+  "client": [
+    "WorldRendererMixin",
+    "PlayerEntityModelMixin",
+    "CameraMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

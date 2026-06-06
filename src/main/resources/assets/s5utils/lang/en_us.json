@@ -1,0 +1,32 @@
+{
+  "key.category.s5utils.general": "KSMP S5",
+  "key.categories.s5utils.general": "KSMP S5",
+
+  "key.s5utils.beam": "Beam",
+  "key.s5utils.lightning": "Lightning",
+  "key.s5utils.orbital_strike": "God's Strike",
+
+  "death.attack.beam_incinerate": "%1$s was incinerated",
+  "death.attack.beam_incinerate.player": "%1$s was incinerated by %2$s",
+  "death.attack.beam_incinerate.item": "%1$s was incinerated by %2$s",
+
+  "death.attack.s5utils.beam_incinerate": "%1$s was incinerated",
+  "death.attack.s5utils.beam_incinerate.player": "%1$s was incinerated by %2$s",
+  "death.attack.s5utils.beam_incinerate.item": "%1$s was incinerated by %2$s",
+
+  "death.attack.orbital_strike": "%1$s was obliterated by God's Strike",
+  "death.attack.orbital_strike.player": "%1$s was obliterated by God's Strike",
+  "death.attack.orbital_strike.item": "%1$s was obliterated by God's Strike",
+
+  "death.attack.s5utils.orbital_strike": "%1$s was obliterated by God's Strike",
+  "death.attack.s5utils.orbital_strike.player": "%1$s was obliterated by God's Strike",
+  "death.attack.s5utils.orbital_strike.item": "%1$s was obliterated by God's Strike",
+
+  "death.attack.blade_of_god": "%1$s was slain by %2$s using the Blade of God",
+  "death.attack.blade_of_god.player": "%1$s was slain by %2$s using the Blade of God",
+  "death.attack.blade_of_god.item": "%1$s was slain by %2$s using the Blade of God",
+
+  "death.attack.s5utils.blade_of_god": "%1$s was slain by %2$s using the Blade of God",
+  "death.attack.s5utils.blade_of_god.player": "%1$s was slain by %2$s using the Blade of God",
+  "death.attack.s5utils.blade_of_god.item": "%1$s was slain by %2$s using the Blade of God"
+}
